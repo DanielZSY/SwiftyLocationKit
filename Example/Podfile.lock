@@ -1,0 +1,23 @@
+PODS:
+  - BFKit-Swift (6.0.1)
+  - SwiftyLocationKit (0.0.1):
+    - BFKit-Swift
+
+DEPENDENCIES:
+  - SwiftyLocationKit (from `../SwiftyLocationKit.podspec`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BFKit-Swift
+
+EXTERNAL SOURCES:
+  SwiftyLocationKit:
+    :path: "../SwiftyLocationKit.podspec"
+
+SPEC CHECKSUMS:
+  BFKit-Swift: a91367e548f995ef9804956e255912fdbf0d91a2
+  SwiftyLocationKit: 464097cc3416634a9a11e6d625b85e59387020cd
+
+PODFILE CHECKSUM: bc0da92190498e303ed13d40040a3fd0a0ce53a0
+
+COCOAPODS: 1.10.1

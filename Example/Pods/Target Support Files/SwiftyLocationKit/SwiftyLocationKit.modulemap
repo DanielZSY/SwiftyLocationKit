@@ -1,0 +1,6 @@
+framework module SwiftyLocationKit {
+  umbrella header "SwiftyLocationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
